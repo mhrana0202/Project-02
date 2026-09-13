@@ -81,7 +81,7 @@ header .navbar ul li a:hover{
 
     .section01{
         width: 100%;
-        height: 750px;
+        height: 600px;
         background-color: #f9f9ff;
         display: flex;
         justify-content: space-between;
@@ -140,3 +140,105 @@ header .navbar ul li a:hover{
         Section-01 part End here
     -----------------------------*/
 
+
+
+
+
+
+
+
+    /*----------------------------
+        Section-02 part Start here
+    -----------------------------*/
+
+
+    .section02{
+        width: 100%;
+        height: 500px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .section02 div{
+        width: 40%;
+        margin: 0 auto;
+    }
+
+    .section02 img{
+        width: 100%;
+        height: auto;
+    }
+
+    .section02 .intro-img2{
+        padding-left: 190px;
+    }
+
+
+    .intro2 h2{
+        font-weight: normal;
+        color: rgba(0, 0, 0, 0.6);
+        font-size: 15px;
+    }
+
+    .intro2 h1{
+        margin-top: 20px;
+        font-weight: bold;
+        font-size: 30px;
+    }
+
+    .intro2 p{
+        margin-top: 20px;
+        font-size: 15px;
+        color: rgba(0, 0, 0, 0.6);
+        width: 80%;
+    }
+
+    .intro2 input{
+        margin-top: 30px;
+        font-size: 20px;
+        padding: 12px 15px;
+        color: white;
+        background-color: #8293ff;
+        border: 1px solid blueviolet;
+        border-radius: 20px;
+    }
+
+    .intro2 input:hover{
+        box-shadow: 5px 10px 30px rgba(130, 147, 255, 0.5);
+        transition: all 0.5s ease-in 0.1s;
+        border: 1px solid forestgreen;
+    }
+
+
+     /*----------------------------
+        Section-02 part End here
+    -----------------------------*/
+
+
+
+
+
+
+
+     /*----------------------------
+        Section-03 part Start here
+    -----------------------------*/
+
+.section03{
+    width: 100%;
+    height: 650px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.intro3 h1{
+    font-size: 45px;
+    margin: 20px;
+}
+
+.intro3 p{
+    width: 650px;
+    color: rgba(0, 0, 0, 0.6);
+    margin: 0 auto;
+}
